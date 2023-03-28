@@ -1,0 +1,7 @@
+webmail/
+node_modules
+password.txt 
+*.ai
+*.psd 
+*.log
+*.vsc
