@@ -1,5 +1,5 @@
 webmail/
-node_modules
+node_modules/
 password.txt 
 *.ai
 *.psd 
